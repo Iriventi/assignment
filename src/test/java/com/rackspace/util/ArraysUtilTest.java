@@ -7,10 +7,8 @@ import org.mockito.junit.MockitoJUnitRunner;
 
 import static org.junit.Assert.assertArrayEquals;
 
-@RunWith(MockitoJUnitRunner.class)
 public class ArraysUtilTest {
 
-    @InjectMocks
     ArraysUtil arraysUtil;
 
     @Test
